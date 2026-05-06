@@ -1,3 +1,5 @@
-Citation
-If you found our work useful, please cite
+Citation : 
+
+If you found this work helpful, please consider citing it.
+
 
